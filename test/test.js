@@ -23,7 +23,7 @@ describe.only('CLI', function () {
     cp.execFile('./app.js', function (err, stdout) {
       console.log('err', err);
       console.log('stdout', stdout);
-      stdout.should.equal('Thanks for downloading my app!!!!!');
+      stdout.should.equal('Thanks for downloading my app!');
       done();
     })
     //execute node app.js
