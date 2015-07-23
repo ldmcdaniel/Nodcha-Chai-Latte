@@ -4,6 +4,13 @@ var Animal = require(path.join(process.cwd(), '/lib/Animal'));
 var cp = require('child_process');
 
 
+describe('Thanks', function () {
+  var thanks = require(path.join(process.cwd(), '/lib/thanks'));
+  it('should thank me for downloading', function () {
+    thanks.should.equal('Thanks for downloading my app!');
+  })
+})
+
 describe('something', function () {
 
 })
