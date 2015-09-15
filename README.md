@@ -5,7 +5,7 @@ Node, Mocha, Chai Stuff
 
 This is an in-class project at NSS.
 
-The project was an introduction to Test Driven Development using Node, Mocha, and Chai.  Also, at this point we began to break our apps up into modules.
+The project was an introduction to command line apps with Test Driven Development using Node, Mocha, and Chai.  Also, at this point we began to break our apps up into modules.
 
 ## What technologies does the project use?
 
