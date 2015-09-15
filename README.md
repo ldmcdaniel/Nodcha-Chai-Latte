@@ -36,4 +36,4 @@ NPM, Node.js, Mocha, Chai, and Travis.ci.
 
 >also run
 
-````node cheer.js
+````node cheer.js````
