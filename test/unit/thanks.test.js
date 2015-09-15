@@ -1,5 +1,5 @@
-var thanks = require(path.join(process.cwd(), '/lib/thanks'));
 var path = require('path');
+var thanks = require(path.join(process.cwd(), '/lib/thanks'));
 var should = require("chai").should();
 
 describe('Thanks', function () {
